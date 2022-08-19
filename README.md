@@ -2,7 +2,7 @@
 Hi, I'm rad, your local idiot.
 </p>
 <p align='center'> 
-  I'm not a javascript dev, I know some python, don't quote my stats.<br>
+  I'm not a javascript dev, I know batch and some python, don't quote my stats.<br>
 </p>
 
 
