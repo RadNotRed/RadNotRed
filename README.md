@@ -5,7 +5,7 @@ Hi, I'm rad, your local idiot.
   I'm not a javascript dev, I know batch and some python, don't quote my stats.
 </p>
 <p align='center'> 
- I'm also learning typescript.<br>
+ I'm also learning java.<br>
 </p>
 
 
