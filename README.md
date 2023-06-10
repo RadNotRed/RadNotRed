@@ -2,10 +2,10 @@
 Hi, I'm rad, your local idiot.
 </p>
 <p align='center'> 
-  I'm not a javascript dev, I know batch and some python, don't quote my stats.
+  I'm not a javascript dev, I know java and python, don't quote my stats.
 </p>
 <p align='center'> 
- I'm also learning java.<br>
+ I'm learning flutter now too.<br>
 </p>
 
 
