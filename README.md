@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -9,13 +8,11 @@
   </ul>
 </div>
 
-
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -24,34 +21,25 @@
   </ul>
 </div>
 
-
 <!--Intro start-->
-- I’m currently working on **Flutter, python, and typescript projects**
 
-- My github top language stats are inaccurate (I don't know js)
+- I’m currently working on absolutely nothing becaues college started
 <!--Intro end-->
-
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=radnotred&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radnotred&theme=dark&hide_border=false" /> 
-</td>
+    <table align="center" border="0">
+        <tr>
+            <!-- First image (or set of elements) -->
+            <td align="center">
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=radnotred&theme=dark&show_icons=true&count_private=true" />
+            </td>
+            <td align="center">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=radnotred&theme=dark&hide_border=false" />
+            </td>
+        </tr>
+    </table>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=radnotred&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
@@ -62,24 +50,25 @@
 </div>
 <!--- trophy (start) -->
 
-
 </p>        
 <!--- stats (end) -->
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">explod</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,docker,firebase,github,idea,java,linux,mongodb,postman,py,ts,vscode&perline=14" />
-  </a>
-</p>
-
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=dart,java,lua,py,ts&perline=14" />
+        <img src="https://skillicons.dev/icons?i=express,fastapi,discord&perline=14" />
+        <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,redis,sqlite&perline=14" />
+        <img src="https://skillicons.dev/icons?i=bash,docker,git,github,gitlab,githubactions,linux,nginx,powershell,prisma,sentry,vercel,vscode&perline=14" />
+        <img src="https://skillicons.dev/icons?i=cloudflare,regex,&perline=14"/>
+    </a>
+</div>
 
 <div align="center">
   
@@ -90,4 +79,4 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
+---
