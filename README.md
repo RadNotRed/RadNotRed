@@ -39,7 +39,7 @@
 <!-- Tech stack icons -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,express,mysql,git,linux,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ts,mysql,git,linux,docker,express&perline=14" />
   </a>
 </div>
 
