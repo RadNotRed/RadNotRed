@@ -5,13 +5,6 @@
   </ul>
 </div>
 
-<!-- Visit count -->
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=radnotred&icon=3&color=6" alt="visit count">
-  </a>
-</div>
-
 <!-- Snake -->
 <div align="center">
   <img src="https://github.com/1999AZZAR/1999AZZAR/raw/readme/resources/grid-snake.svg" alt="snake">
